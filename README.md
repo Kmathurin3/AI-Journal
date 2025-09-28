@@ -1,11 +1,1 @@
-AI Usage Journal by Kristina Mathurin (Week 3).
 
-AI was primarily used for teaching and editing. I asked quick "why" questions (e.g., clean ways to flip booleans) and double-checked the edge cases I'd already defined. 
-I also had it generate little test inputs to validate behavior.
-
-Non-school: created a weekly checklist, simplified a two-paragraph bio, condensed a podcast into five bullet points, and edited an email for clarity.
-
-Model notes: On the same prompt, ChatGPT outperformed Claude and Gemini in terms of concise edits, step-by-step, and extended context. 
-Specifying length, audience, and a single example increased outcomes.
-
-Privacy: names and URLs have been redacted. I discovered one hallucinated function through my own tests.
